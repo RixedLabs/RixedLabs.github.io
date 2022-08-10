@@ -14,10 +14,10 @@ title: about
 
 ## Cult Members
 
-- [ElementalX](https://twitter.com/ElementalX2)
+-[ElementalX](https://twitter.com/ElementalX2)
 
-- [Muffin](https://twitter.com/_muffin31) 
+-[Muffin](https://twitter.com/_muffin31) 
 
-- [Kenji](https://twitter.com/x86K4nj)
+-[Kenji](https://twitter.com/x86K4nj)
 
-- [Astro](https://twitter.com/)
+-[Astro](https://twitter.com/)
