@@ -9,7 +9,7 @@ header_pages:
   - about.md
   
 
-footer: '<a href="https://twitter.com/axi4l">twitter</a>'
+footer: '© 2022 | Axial | <a href="https://twitter.com/axi4l">twitter</a>'
 
 #style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
