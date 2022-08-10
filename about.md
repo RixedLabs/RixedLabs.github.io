@@ -2,6 +2,9 @@
 title: about
 ---
 
+# About
+<br />
+
 ## Bunch of nerds interested in programming, reverse engineering, and Windows internals.
 
 <br />
