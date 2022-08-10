@@ -2,7 +2,7 @@
 title: about
 ---
 
-# About
+# **About**
 <br />
 
 ### Bunch of nerds interested in programming, reverse engineering, and Windows internals.
@@ -12,13 +12,12 @@ title: about
 **[Twitter](https://twitter.com/axi4l)** **[Discord](https://discord.com/invite/jY8yjCqnUT )**
 
 
-### Cult Members
-<br />
+## Cult Members
 
-**[ElementalX](https://twitter.com/ElementalX2)**  
+- **[ElementalX](https://twitter.com/ElementalX2)**  
 
-**[Muffin](https://twitter.com/_muffin31)**  
+- **[Muffin](https://twitter.com/_muffin31)**  
 
-**[Kenji](https://twitter.com/x86K4nj)**  
+- **[Kenji](https://twitter.com/x86K4nj)**  
 
-**[Astro](https://twitter.com/)**
+- **[Astro](https://twitter.com/)**
