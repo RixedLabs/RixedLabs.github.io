@@ -8,7 +8,7 @@ header_pages:
   - about.md
   
 
-footer: 'follow us on <a href="https://twitter.com/axi4l">twitter</a>'
+footer: '<a href="https://twitter.com/axi4l">twitter</a> // <a href=" https://discord.com/invite/jY8yjCqnUT">Discord</a>'
 
 #style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
