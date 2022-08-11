@@ -2,10 +2,10 @@
 title: about
 ---
 
-# **About**
+# About
 <img src="/assets/images/logo.png" width="95" height="95" /> 
 
-### Bunch of nerds interested in programming, reverse engineering, and Windows internals.
+Bunch of nerds interested in programming, reverse engineering, and Windows internals.
 
 ## Cult Members
 
