@@ -2,7 +2,7 @@
 title: contact
 ---
 
-# Contact:
+# Contact
 
 * Email: [ax1al@protonmail.com](mailto:ax1al@protonmail.com)
 * Twitter: [AXI4L](https://twitter.com/axi4l)
