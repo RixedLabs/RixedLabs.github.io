@@ -2,7 +2,7 @@
 title: contact
 ---
 
-<pre>
+<!-- <pre>
    _____            _             _   
   / ____|          | |           | |  
  | |     ___  _ __ | |_ __ _  ___| |_ 
@@ -10,7 +10,8 @@ title: contact
  | |___| (_) | | | | || (_| | (__| |_ 
   \_____\___/|_| |_|\__\__,_|\___|\__|
                                       
-                                      </pre>
+                                      </pre> -->
+<h1 style="font-size:55px;">Contact</h1>  
 
 * Email: [ax1al@protonmail.com](mailto:ax1al@protonmail.com)
 * Twitter: [AXI4L](https://twitter.com/axi4l)
