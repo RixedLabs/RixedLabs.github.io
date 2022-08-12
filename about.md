@@ -1,8 +1,16 @@
 ---
 title: about
 ---
+ <pre>
+           _                 _   
+     /\   | |               | |  
+    /  \  | |__   ___  _   _| |_ 
+   / /\ \ | '_ \ / _ \| | | | __|
+  / ____ \| |_) | (_) | |_| | |_ 
+ /_/    \_\_.__/ \___/ \__,_|\__|
+                                 
+</pre>
 
-# About
 <p align="center">
 <img src="/assets/images/logo.png" width="95" height="95" /> 
 </p>
