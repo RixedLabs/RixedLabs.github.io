@@ -10,7 +10,7 @@ title: about
  /_/    \_\_.__/ \___/ \__,_|\__|
                                  
 </pre> -->
-# About
+<h1 style="font-size:55px;">About</h1>  
 
 <p align="center">
 <img src="/assets/images/logo.png" width="95" height="95" /> 
