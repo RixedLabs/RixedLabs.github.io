@@ -35,21 +35,15 @@ title: archive
 
 [Exploring Sigma Rules](https://medium.com/ax1al/exploring-sigma-rules-12e9f1bf2685)  
 
-[Javascript Obfuscation](https://medium.com/ax1al/javascript-obfuscation-what-why-and-how-5a269e6b6d50) 
-
 [Weaponize the Dark Web for OSINT](https://medium.com/ax1al/weaponize-the-dark-web-for-osint-f94f019a65b4)
 
 [Operations Security](https://medium.com/ax1al/operations-security-53e4118ef603) 
-
-[Session Hijacking : A brief Overview](https://medium.com/ax1al/session-hijacking-a-brief-overview-e65480e887cb)  
-
-[The Child Process Module : A Brief Introduction](https://medium.com/ax1al/the-child-process-module-a-brief-introduction-debd984840f1)  
 
 [A Look into Geospatial Intelligence](https://medium.com/ax1al/a-look-into-geospatial-intelligence-b1c59f1bc497)  
 
 [A glimpse of unrestricted file upload](https://medium.com/ax1al/a-glimpse-of-unrestricted-file-upload-67843430d419) 
 
-[Social Netwoek Analysis](https://medium.com/ax1al/social-network-analysis-94bd5155326f) 
+[Social Network Analysis](https://medium.com/ax1al/social-network-analysis-94bd5155326f) 
 
 [The Unconventional Guide to conducting OSINT on LinkedIn](https://medium.com/ax1al/the-unconventional-guide-to-conducting-osint-on-linkedin-c9631b27935d)  
 
