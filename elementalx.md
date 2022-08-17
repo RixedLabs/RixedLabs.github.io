@@ -7,11 +7,9 @@ title: elementalx
         <td><b> <strong>ElementalX </strong></b> <br>
         Programming & Malware Analysis | Wannabe Calisthenics athlete
         <br>  
-<ul>
-  <li><p><a href="https://twitter.com/elementalx2">Twitter</a></p></li>
-  <li><p><a href="https://github.com/xelemental">Github</a></p></li>
-</ul>       
-    </td>
+   <a href="https://twitter.com/elementalx2">- Twitter</a> <br>
+   <a href="https://github.com/xelemental">- Github</a> <br>
+      </td>
   </tr> <br>
 </table>
 
