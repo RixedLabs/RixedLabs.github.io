@@ -4,16 +4,18 @@ title: elementalx
 <table cellspacing="1" cellpadding="1">
   <tr>
      <td><img src="/assets/images/elemental.png" alt="..." width="80" height="80" style="float:left"></td>
-        <td><b> ElementalX </b> <br>  
-      Programming & Malware Analysis | Wannabe Calisthenics athlete
+        <td><b> ElementalX </b> <br>
           
+      Programming & Malware Analysis | Wannabe Calisthenics athlete
+
 - [Twitter](https://twitter.com/ElementalX2)
 - [Github](https://github.com/xelemental)          
     </td>
   </tr> <br>
 </table>
 
-  # Posts
+
+# Posts
 
 [Spending time understanding GOLLVM](https://ax1al.com/2021/12/31/spending-time-understanding-GOLLVM.html)
 
