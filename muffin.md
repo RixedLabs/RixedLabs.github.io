@@ -2,14 +2,16 @@
 title: muffin
 ---
 
-<table cellspacing="0" cellpadding="0">
+<table cellspacing="2" cellpadding="2">
   <tr>
      <td><img src="/assets/images/muffin.png" alt="..." width="80" height="80" style="float:left"></td>
         <td><b> Muffin </b> <br>  
-      I’m interested in reverse engineering who also dabbles with low-level programming, primarily in Rust and Assembly.
+      I’m interested in reverse engineering and also dabbles with low-level programming, primarily in Rust and Assembly.
+         <br>
 
-- [Twitter](https://twitter.com/_muffin31)
-- [Github](https://github.com/muff-in)          
+* [Twitter](https://twitter.com/_muffin31)
+* [Github](https://github.com/muff-in)
+                  <br />  
     </td>
   </tr> <br>
 </table>
