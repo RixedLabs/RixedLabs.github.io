@@ -23,6 +23,6 @@ Bunch of nerds with a penchant for security research, programming, reverse engin
 ## Cult Members
 
 * [ElementalX](https://ax1al.com/elementalx)
-* [Muffin](https://twitter.com/_muffin31)
+* [Muffin](https://ax1al.com/muffin)
 * [Kenji](https://twitter.com/x86K4nj)
 * [Astro](https://twitter.com/)
