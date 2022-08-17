@@ -5,7 +5,7 @@ title: elementalx
   <tr>
      <td><img src="/assets/images/elemental.png" alt="..." width="80" height="80" style="float:left"></td>
         <td><b> <strong>ElementalX </strong></b> <br>
-        Programming & Malware Analysis | Wannabe Calisthenics athlete
+        A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hunting, OSINT and low level things of Security from 🇮🇳 .
         <br>  
 * <a href="https://twitter.com/elementalx2">Twitter</a> <br>
 * <a href="https://github.com/xelemental">Github</a> <br>
