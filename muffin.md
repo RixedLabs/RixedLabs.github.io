@@ -6,7 +6,7 @@ title: muffin
   <tr>
      <td><img src="/assets/images/muffin.png" alt="..." width="80" height="80" style="float:left"></td>
         <td><b> Muffin </b> <br>  
-      Security researcher and an ambivalent game-hacker, also interested in system programming.
+     A bored Security researcher. Interested in reverse engineering, system programming and other low level stuffs.
         <br>  
 * <a href="https://twitter.com/_muffin31">Twitter</a> <br>
 * <a href="https://github.com/muff-in">Github</a> <br>
