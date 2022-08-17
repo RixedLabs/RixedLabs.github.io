@@ -9,6 +9,7 @@ title: elementalx
         <br>  
 * <a href="https://twitter.com/elementalx2">Twitter</a> <br>
 * <a href="https://github.com/xelemental">Github</a> <br>
+* <a href="https://www.linkedin.com/in/subhajeet-singha-b238951a9/">LinkedIn</a> <br>          
       </td>
   </tr> <br>
 </table>
