@@ -10,8 +10,7 @@ title: muffin
         <br>  
 * <a href="https://twitter.com/_muffin31">Twitter</a> <br>
 * <a href="https://github.com/muff-in">Github</a> <br>
-* <a href="https://www.linkedin.com/in/muff1n/">LinkedIn</a> <br>
-          
+* <a href="https://www.linkedin.com/in/muff1n/">LinkedIn</a> <br>         
     </td>
   </tr> <br>
 </table>
