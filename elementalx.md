@@ -6,10 +6,11 @@ title: elementalx
      <td><img src="/assets/images/elemental.png" alt="..." width="80" height="80" style="float:left"></td>
         <td><b> <strong>ElementalX </strong></b> <br>
         A nerd who likes to reverse engineer stuffs passionate about Malware ,threat hunting, OSINT and low level things of Security from 🇮🇳 .
-        <br>  
-* <a href="https://twitter.com/elementalx2">Twitter</a> <br>
-* <a href="https://github.com/xelemental">Github</a> <br>
-* <a href="https://www.linkedin.com/in/subhajeet-singha-b238951a9/">LinkedIn</a> <br>          
+        <ul>  
+          <li> <a href="https://twitter.com/elementalx2">Twitter</a> </li>
+          <li> <a href="https://github.com/xelemental">Github</a> </li>
+          <li> <a href="https://www.linkedin.com/in/subhajeet-singha-b238951a9/">LinkedIn</a> </li>
+          </ul>
       </td>
   </tr> <br>
 </table>
