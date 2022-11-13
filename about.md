@@ -1,5 +1,6 @@
 ---
 title: about
+layout: default
 ---
 <!-- <pre>
            _                 _   
@@ -22,6 +23,6 @@ RixedLabs (formerly known as Axial) is a group of nerds interested in security r
 
 ## Cult Members
 
-* [ElementalX](https://ax1al.com/elementalx)
+* [ElementalX](https://rixed.blog/elementalx)
 * [Kenji](https://twitter.com/x86K4nj)
-* [Muffin](https://ax1al.com/muffin)
+* [Muffin](https://rixed.blog/muffin)
