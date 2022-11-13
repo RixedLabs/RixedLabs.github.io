@@ -9,7 +9,7 @@ header_pages:
   - about.md
   
 
-footer: '© 2022 | Axial'
+footer: '© 2022 | RixedLabs'
 
 #style: light # dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
