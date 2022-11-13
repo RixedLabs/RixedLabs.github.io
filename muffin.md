@@ -1,5 +1,6 @@
 ---
 title: muffin
+layout: default
 ---
 
 <table cellspacing="2" cellpadding="2">
