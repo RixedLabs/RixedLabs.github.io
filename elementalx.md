@@ -1,5 +1,6 @@
 ---
 title: elementalx
+layout: default
 ---
 <table cellspacing="1" cellpadding="2">
   <tr>
