@@ -1,5 +1,6 @@
 ---
 title: archive
+layout: default
 ---
 
 <!-- <pre>
