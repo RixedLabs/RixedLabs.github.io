@@ -23,6 +23,5 @@ RixedLabs (formerly known as Axial) is a group of nerds interested in security r
 ## Cult Members
 
 * [ElementalX](https://ax1al.com/elementalx)
-* [Muffin](https://ax1al.com/muffin)
 * [Kenji](https://twitter.com/x86K4nj)
-* [Astro](https://twitter.com/)
+* [Muffin](https://ax1al.com/muffin)
