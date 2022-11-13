@@ -1,5 +1,6 @@
 ---
 title: contact
+layout: default
 ---
 
 <!-- <pre>
@@ -13,8 +14,8 @@ title: contact
                                       </pre> -->
 <h1 style="font-size:55px;">Contact</h1>  
 
-* Email: [ax1al@protonmail.com](mailto:ax1al@protonmail.com)
-* Twitter: [AXI4L](https://twitter.com/axi4l)
-* Discord: [AXIAL](https://discord.com/invite/jY8yjCqnUT)
-* Github: [AXI4L](https://github.com/AXI4L/)
-* LinkedIn: [AX1AL](https://www.linkedin.com/company/ax1al/)
+* Email: [rixedlabs@tutanota.de](rixedlabs@tutanota.de)
+* Twitter: [RixedLabs](https://twitter.com/RixedLabs)
+* Discord: [RixedLabs](https://discord.com/invite/jY8yjCqnUT)
+* Github: [RixedLabs](https://github.com/RixedLabs/)
+* LinkedIn: [RixedLabs](https://www.linkedin.com/company/r1xedlabs/)
