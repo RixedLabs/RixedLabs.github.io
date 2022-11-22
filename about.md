@@ -14,7 +14,7 @@ layout: default
 <h1 style="font-size:55px;">About</h1>  
 
 <p align="center">
-<img src="/assets/images/logo.png" width="95" height="95" /> 
+<img src="/assets/images/logo.png" width="200" height="200" /> 
 </p>
 
 <p align="center">
